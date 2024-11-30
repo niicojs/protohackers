@@ -1,0 +1,11 @@
+{
+  "name": "protohackers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "better-sqlite3": "^11.6.0"
+  }
+}
